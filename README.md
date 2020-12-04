@@ -6,7 +6,7 @@ Backup location: C:\Backups\NSX_DLR\backup_date
 
 Script location: C:\Script\Export_NSX_DLR_configuration.ps1
 
-Windows Task:
+# Windows Task:
 * name: dlr-backup
 * action: powershell -ExecutionPolicy Unrestricted -File C:\Script\Export_NSX_DLR_configuration.ps1
 * frequency: each Saturday on 21:15
