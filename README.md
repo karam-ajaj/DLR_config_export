@@ -1,6 +1,6 @@
 # A script to export all DLR configuration for multiple vCenters
 
-description: This script exports all the DLR configurations and place the backup on a local location
+Description: This script exports all the DLR configurations and place the backup on a local location
 
 Backup location: C:\Backups\NSX_DLR\backup_date
 
